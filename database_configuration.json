@@ -1,4 +1,0 @@
-{
-    "url": "mongodb://faithcgm:nightscout@ds056998.mongolab.com:56998/faithcgm",
-    "collection": "entries"
-}
